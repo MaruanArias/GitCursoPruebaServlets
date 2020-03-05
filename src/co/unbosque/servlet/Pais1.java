@@ -48,6 +48,7 @@ public class Pais1 extends HttpServlet {
 		response.getWriter().println("<option value='Lima'>Peru</option>");
 		response.getWriter().println("<option value='Asuncion'>Paraguay</option>");
 		response.getWriter().println("<option value='Quito'>Ecuador</option>");
+		response.getWriter().println("<option value='Quito'>Ecuador</option>");
 		response.getWriter().println("</select>");
 		response.getWriter().println("<input class='btn' type='submit'>");
 		response.getWriter().println("</from>");
